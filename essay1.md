@@ -5,3 +5,5 @@
 This is the question I'm asking
 
 ### This is my graph
+
+![chart1.png](chart.png)
